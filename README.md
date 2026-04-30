@@ -137,5 +137,5 @@ python main.py
 
 ## 👨‍💻 Author: 
 
-"Joncy Keda - AI Developer"
+Joncy Keda - AI Developer
 ---
